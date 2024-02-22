@@ -1,0 +1,7 @@
+SOrderNo,SOrderDate,ClientNo,SalesmanNo,DelyDate,OrderSatus
+2001,2021-01-12,1,101,2021-01-20,In Process
+2002,2021-01-25,2,102,2021-01-27,Cancelled
+2003,2021-01-18,3,103,2021-02-20,Fulfilled
+2004,2021-04-03,1,104,2021-04-07,Fulfilled
+2005,2021-05-20,4,102,2021-05-22,Cancelled
+2006,2021-05-24,5,103,2021-05-26,In Process
